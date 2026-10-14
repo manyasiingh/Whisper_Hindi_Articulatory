@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+# training artefacts (large) - publish adapters on the HF Hub instead
+cache_*/
+checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+wandb/

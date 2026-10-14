@@ -1,0 +1,11 @@
+torch
+transformers>=4.44
+peft>=0.12
+accelerate
+datasets<4        # FLEURS uses a loading script; datasets>=4 dropped script support
+jiwer>=3.0
+soundfile
+librosa
+numpy
+pandas
+matplotlib

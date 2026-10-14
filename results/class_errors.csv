@@ -1,0 +1,18 @@
+,zero-shot,zero-shot,lora-whisper-small,lora-whisper-small
+,n_ref,error_%,n_ref,error_%
+class,,,,
+aspirated stops,1314,59.67,1314,16.67
+unaspirated stops,9039,21.43,9039,6.45
+voiceless stops,6811,22.87,6811,5.81
+voiced stops,3542,32.83,3542,11.46
+retroflex (ट ठ ड ढ ण),912,51.43,912,15.13
+dental (त थ द ध न),4150,25.18,4150,6.87
+velar stops,3736,21.17,3736,5.57
+palatal affricates,1255,25.98,1255,8.53
+labial stops,2088,21.89,2088,7.9
+nasals,3015,18.37,3015,4.71
+fricatives,4020,28.28,4020,8.16
+semivowels/liquids,5458,20.25,5458,6.8
+short vowels,2927,31.88,2927,10.52
+long vowels,10977,22.5,10977,7.01
+nasalisation/nukta/virama,4023,51.58,4023,16.26

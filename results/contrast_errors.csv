@@ -1,0 +1,11 @@
+,zero-shot,zero-shot,zero-shot,zero-shot,lora-whisper-small,lora-whisper-small,lora-whisper-small,lora-whisper-small
+,n_ref,partner_confusion_%,other_sub_%,deletion_%,n_ref,partner_confusion_%,other_sub_%,deletion_%
+contrast,,,,,,,,
+unaspirated→aspirated,9039,1.45,16.71,3.27,9039,0.7,4.06,1.69
+aspirated→unaspirated,1314,31.28,22.68,5.71,1314,8.07,6.39,2.21
+voiceless→voiced,6811,2.51,17.24,3.13,6811,0.65,3.74,1.42
+voiced→voiceless,3542,3.61,24.76,4.46,3542,2.65,6.41,2.4
+retroflex→dental,912,17.65,26.86,6.91,912,3.07,8.66,3.4
+dental→retroflex,4150,2.02,20.48,2.67,4150,0.22,5.59,1.06
+short→long vowel,2523,8.6,17.68,5.91,2523,3.37,4.28,3.09
+long→short vowel,2063,12.02,14.64,2.86,2063,4.75,3.93,0.97
