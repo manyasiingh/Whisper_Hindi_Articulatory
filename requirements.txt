@@ -1,9 +1,0 @@
-
-numpy
-scikit-learn
-pandas
-matplotlib
-seaborn
-xgboost
-streamlit
-streamlit-option-menu
